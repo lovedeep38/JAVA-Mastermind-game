@@ -1,0 +1,187 @@
+Student name: Lovedeep Singh        Student ID- 100376517
+Assignment 5 - Mastermind
+Insructor name- Bryan Green
+
+Game 1 starts 
+Enter the total number of digit you want to guess(not more than 10 but at least 2)
+1
+Error: Please enter size not more than 10 but at least 2
+10
+Error: Please enter size not more than 10 but at least 2
+4
+
+Game 1 starts 
+Enter the total number of digit you want to guess(not more than 10 but at least 2)
+4
+
+Computer generated number is: ****
+Guess a number and every number should be different or enter 'on' to get the number: 
+1234
+---------------------------------------------------------
+Number of correct digits: 1
+Number of digits in right place: 0
+Number of digits in wrong place: 1
+Number of guess: 1
+---------------------------------------------------------
+
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+1567
+---------------------------------------------------------
+Number of correct digits: 3
+Number of digits in right place: 1
+Number of digits in wrong place: 2
+Number of guess: 2
+---------------------------------------------------------
+
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+3567
+---------------------------------------------------------
+Number of correct digits: 4
+Number of digits in right place: 2
+Number of digits in wrong place: 2
+Number of guess: 3
+---------------------------------------------------------
+
+Here is one hint for you: **7*
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+3576
+Good Game, Your guess is right.
+
+Game 1 complete.
+
+Enter anything to start next game or enter 'stop' to end the game.
+e
+
+Enter the total number of digit you want to guess(not more than 10 but at least 2)
+6
+
+Computer generated number is: ******
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+er456t4
+Please enter only digits of inputted size: 3456
+Please enter a number of inputted size: 123456
+---------------------------------------------------------
+Number of correct digits: 4
+Number of digits in right place: 1
+Number of digits in wrong place: 3
+Number of guess: 1
+---------------------------------------------------------
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+345678
+---------------------------------------------------------
+Number of correct digits: 5
+Number of digits in right place: 0
+Number of digits in wrong place: 5
+Number of guess: 2
+---------------------------------------------------------
+
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+782345
+---------------------------------------------------------
+Number of correct digits: 5
+Number of digits in right place: 1
+Number of digits in wrong place: 4
+Number of guess: 3
+---------------------------------------------------------
+
+Here is one hint for you: ***4**
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+765432
+---------------------------------------------------------
+Number of correct digits: 5
+Number of digits in right place: 3
+Number of digits in wrong place: 2
+Number of guess: 4
+---------------------------------------------------------
+
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+768234
+---------------------------------------------------------
+Number of correct digits: 6
+Number of digits in right place: 3
+Number of digits in wrong place: 3
+Number of guess: 5
+---------------------------------------------------------
+
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+765438
+---------------------------------------------------------
+Number of correct digits: 5
+Number of digits in right place: 3
+Number of digits in wrong place: 2
+Number of guess: 6
+---------------------------------------------------------
+
+Here is one more hint for you: *6*4**
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+763428
+---------------------------------------------------------
+Number of correct digits: 6
+Number of digits in right place: 4
+Number of digits in wrong place: 2
+Number of guess: 7
+---------------------------------------------------------
+
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+367428
+---------------------------------------------------------
+Number of correct digits: 6
+Number of digits in right place: 3
+Number of digits in wrong place: 3
+Number of guess: 8
+---------------------------------------------------------
+
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+863472
+---------------------------------------------------------
+Number of correct digits: 6
+Number of digits in right place: 2
+Number of digits in wrong place: 4
+Number of guess: 9
+---------------------------------------------------------
+
+This is the last hint for you: *6*4**
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+768432
+---------------------------------------------------------
+Number of correct digits: 6
+Number of digits in right place: 4
+Number of digits in wrong place: 2
+Number of guess: 10
+---------------------------------------------------------
+
+Sorry, you take total 10 guess but unfortunately you didn't find a number.
+The number is: 768423
+
+
+Game 2 complete.
+
+Enter anything to start next game or enter 'stop' to end the game.
+u
+Enter the total number of digit you want to guess(not more than 10 but at least 2)
+3
+
+Computer generated number is: ***
+
+Guess a number and every number should be different or enter 'on' to get the number: 
+on
+The number is: 846
+Game 3 complete.
+
+Enter anything to start next game or enter 'stop' to end the game.
+stop
+Your average performance is 5.34.
+Thanks for playing.
